@@ -20,6 +20,6 @@
 >![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
 >
 > 
-> <i>Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 1K Members </a></i>
+> <i>Was Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 1,5K Members </a></i>
 > 
 > <i>Original Founder/developer of <a href="https://faster-bots.com" > Faster-Bots | Discord Bot List since 2020 </a></i>
