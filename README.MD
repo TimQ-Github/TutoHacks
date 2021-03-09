@@ -18,6 +18,7 @@
 > 
 > 
 >![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
 >
 > 
 > <i>Was Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 1,5K Members </a></i>
