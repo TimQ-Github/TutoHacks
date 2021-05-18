@@ -25,6 +25,6 @@
 >
 > <i>Was Developer at <a href="https://discord.gg/sixv" > SixV | FiveM | 6K Members </a></i>
 >
-> <i>Developer at <a href="https://discord.gg/Jauv6MKEeH" > Atlantic-V | FiveM | 2K Members </a></i>
+> <i>Was Developer at <a href="https://discord.gg/Jauv6MKEeH" > Atlantic-V | FiveM | 2K Members </a></i>
 > 
-> <i>Original Founder/developer of <a href="https://faster-bots.com" > Faster-Bots | Discord Bot List since 2020 </a></i>
+> <i>Was Original Founder/developer of <a href="https://faster-bots.com" > Faster-Bots | Discord Bot List since 2020 </a></i>
