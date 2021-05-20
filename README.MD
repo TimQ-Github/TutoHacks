@@ -21,10 +21,12 @@
 >![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
 >
 > 
-> <i>Was Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 3,5K Members </a></i>
+> <i>Was Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 4K Members </a></i>
 >
 > <i>Was Developer at <a href="https://discord.gg/sixv" > SixV | FiveM | 6K Members </a></i>
 >
 > <i>Was Developer at <a href="https://discord.gg/Jauv6MKEeH" > Atlantic-V | FiveM | 2K Members </a></i>
+>
+> <i>Was Developer at <a href="https://discord.gg/solidv" > Solid-V | FiveM | 1K Members </a></i>
 > 
 > <i>Was Original Founder/developer of <a href="https://faster-bots.com" > Faster-Bots | Discord Bot List since 2020 </a></i>
