@@ -1,4 +1,4 @@
-> # TutoHacks #
+> # Tverge #
 >
 >### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello welcome to my page!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 >
@@ -17,16 +17,5 @@
 
 > 
 > 
->![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
->![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
->
-> 
-> <i>Was Developer at <a href="https://discord.gg/moonv" > Moon-V | FiveM | 4K Members </a></i>
->
-> <i>Was Developer at <a href="https://discord.gg/sixv" > SixV | FiveM | 6K Members </a></i>
->
-> <i>Was Developer at <a href="https://discord.gg/Jauv6MKEeH" > Atlantic-V | FiveM | 2K Members </a></i>
->
-> <i>Developer at <a href="https://discord.gg/homelife" > Homelife | FiveM | 1K Members </a></i>
-> 
-> <i>Was Original Founder/developer of <a href="https://faster-bots.com" > Faster-Bots | Discord Bot List since 2020 </a></i>
+>![Tverge github stats](https://github-readme-stats.vercel.app/api?username=Tverge&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tverge&amp;layout=compact)
