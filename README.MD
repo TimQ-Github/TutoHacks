@@ -17,5 +17,5 @@
 
 > 
 > 
->![Tverge github stats](https://github-readme-stats.vercel.app/api?username=Tverge&show_icons=true&hide_border=true)
->![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tverge&amp;layout=compact)
+>![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
