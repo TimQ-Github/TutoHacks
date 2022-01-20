@@ -19,4 +19,3 @@
 > 
 >![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
 >![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
->[![Website](https://img.shields.io/website?label=timq-it.de&style=for-the-badge&url=https%3A%2F%2Ftimq-it.de)](https://timq-it.de)
