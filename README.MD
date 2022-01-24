@@ -1,4 +1,4 @@
-> # TutoHacks #
+> # TimQ-Github #
 >
 >### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello welcome to my page!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 >
