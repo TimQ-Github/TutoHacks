@@ -1,4 +1,4 @@
-> # TutoHacks #
+> # Tim #
 >
 >### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello welcome to my page!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 >
@@ -17,5 +17,5 @@
 
 > 
 > 
->![TutoHacks github stats](https://github-readme-stats.vercel.app/api?username=TutoHacks&show_icons=true&hide_border=true)
->![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TutoHacks&amp;layout=compact)
+>![Tim's github stats](https://github-readme-stats.vercel.app/api?username=tim-it-ger&show_icons=true&hide_border=true)
+>![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tim-it-ger&amp;layout=compact)
